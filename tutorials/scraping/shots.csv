@@ -1,0 +1,184 @@
+assister,away,blocker,detail,home,is_assist,is_block,is_fga,is_fgm,is_home_play,is_three,minute,shooter,shot_dist
+,True,,B. Lopez misses 2-pt shot from 10 ft,False,False,False,True,False,False,False,0,B. Lopez,10
+I. Thomas,False,,J. Crowder makes 2-pt shot from 1 ft (assist by I. Thomas),True,True,False,True,True,True,False,0,J. Crowder,1
+T. Booker,True,,B. Bogdanovic makes 2-pt shot from 6 ft (assist by T. Booker),False,True,False,True,True,False,False,0,B. Bogdanovic,6
+A. Bradley,False,,A. Horford makes 3-pt shot from 24 ft (assist by A. Bradley),True,True,False,True,True,True,True,1,A. Horford,24
+,True,,J. Lin misses 3-pt shot from 24 ft,False,False,False,True,False,False,True,1,J. Lin,24
+,False,,A. Bradley misses 2-pt shot from 3 ft,True,False,False,True,False,True,False,1,A. Bradley,3
+T. Booker,True,,B. Bogdanovic makes 2-pt shot from 1 ft (assist by T. Booker),False,True,False,True,True,False,False,1,B. Bogdanovic,1
+,False,,A. Bradley misses 2-pt shot from 20 ft,True,False,False,True,False,True,False,2,A. Bradley,20
+,True,A. Horford,B. Lopez misses 2-pt shot from 7 ft (block by A. Horford),False,False,True,True,False,False,False,2,B. Lopez,7
+T. Booker,True,,B. Bogdanovic makes 3-pt shot from 25 ft (assist by T. Booker),False,True,False,True,True,False,True,2,B. Bogdanovic,25
+,False,,I. Thomas misses 3-pt shot from 24 ft,True,False,False,True,False,True,True,3,I. Thomas,24
+,True,,B. Bogdanovic misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,3,B. Bogdanovic,26
+,True,,B. Lopez misses 2-pt shot at rim,False,False,False,True,False,False,False,3,B. Lopez,
+,False,,I. Thomas misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,4,I. Thomas,25
+A. Johnson,False,,J. Crowder makes 3-pt shot from 27 ft (assist by A. Johnson),True,True,False,True,True,True,True,4,J. Crowder,27
+,True,,B. Bogdanovic misses 2-pt shot from 1 ft,False,False,False,True,False,False,False,4,B. Bogdanovic,1
+,False,,I. Thomas misses 2-pt shot from 4 ft,True,False,False,True,False,True,False,4,I. Thomas,4
+,True,,J. Lin makes 2-pt shot from 1 ft,False,False,False,True,True,False,False,5,J. Lin,1
+A. Horford,False,,A. Bradley makes 2-pt shot from 19 ft (assist by A. Horford),True,True,False,True,True,True,False,5,A. Bradley,19
+,True,,B. Lopez misses 2-pt shot from 1 ft,False,False,False,True,False,False,False,5,B. Lopez,1
+,False,,I. Thomas makes 2-pt shot from 2 ft,True,False,False,True,True,True,False,5,I. Thomas,2
+,False,,I. Thomas misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,6,I. Thomas,25
+I. Thomas,False,,J. Brown makes 2-pt shot from 2 ft (assist by I. Thomas),True,True,False,True,True,True,False,6,J. Brown,2
+J. Lin,True,,J. Harris makes 3-pt shot from 24 ft (assist by J. Lin),False,True,False,True,True,False,True,6,J. Harris,24
+A. Horford,False,,A. Bradley makes 3-pt shot from 25 ft (assist by A. Horford),True,True,False,True,True,True,True,6,A. Bradley,25
+A. Horford,False,,A. Bradley makes 2-pt shot from 19 ft (assist by A. Horford),True,True,False,True,True,True,False,7,A. Bradley,19
+,True,A. Horford,J. Lin misses 2-pt shot from 2 ft (block by A. Horford),False,False,True,True,False,False,False,7,J. Lin,2
+,True,,L. Scola misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,7,L. Scola,26
+A. Bradley,False,,J. Crowder makes 2-pt shot from 17 ft (assist by A. Bradley),True,True,False,True,True,True,False,8,J. Crowder,17
+,True,,S. Kilpatrick makes 2-pt shot at rim,False,False,False,True,True,False,False,8,S. Kilpatrick,
+A. Bradley,False,,A. Horford makes 2-pt shot from 2 ft (assist by A. Bradley),True,True,False,True,True,True,False,8,A. Horford,2
+L. Scola,True,,J. Harris makes 3-pt shot from 25 ft (assist by L. Scola),False,True,False,True,True,False,True,9,J. Harris,25
+T. Rozier,False,,J. Crowder makes 3-pt shot from 24 ft (assist by T. Rozier),True,True,False,True,True,True,True,9,J. Crowder,24
+J. Harris,True,,J. Hamilton makes 3-pt shot from 24 ft (assist by J. Harris),False,True,False,True,True,False,True,9,J. Hamilton,24
+L. Scola,True,,S. Kilpatrick makes 3-pt shot from 25 ft (assist by L. Scola),False,True,False,True,True,False,True,10,S. Kilpatrick,25
+,False,,J. Crowder misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,10,J. Crowder,25
+,True,,S. Kilpatrick makes 2-pt shot from 2 ft,False,False,False,True,True,False,False,10,S. Kilpatrick,2
+,False,,J. Crowder misses 2-pt shot from 2 ft,True,False,False,True,False,True,False,10,J. Crowder,2
+,False,,T. Rozier misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,10,T. Rozier,25
+,False,,A. Johnson makes 2-pt shot from 3 ft,True,False,False,True,True,True,False,10,A. Johnson,3
+,True,,S. Kilpatrick misses 2-pt shot from 5 ft,False,False,False,True,False,False,False,11,S. Kilpatrick,5
+,True,,S. Kilpatrick makes 2-pt shot from 1 ft,False,False,False,True,True,False,False,11,S. Kilpatrick,1
+,False,,J. Jerebko misses 2-pt shot from 6 ft,True,False,False,True,False,True,False,11,J. Jerebko,6
+,False,,A. Johnson misses 2-pt shot from 1 ft,True,False,False,True,False,True,False,11,A. Johnson,1
+,False,,J. Jerebko misses 3-pt shot from 40 ft,True,False,False,True,False,True,True,11,J. Jerebko,40
+,False,,J. Jerebko misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,12,J. Jerebko,25
+,True,,G. Vasquez misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,12,G. Vasquez,25
+A. Johnson,False,,G. Green makes 2-pt shot from 14 ft (assist by A. Johnson),True,True,False,True,True,True,False,12,G. Green,14
+,True,,L. Scola misses 2-pt shot from 6 ft,False,False,False,True,False,False,False,13,L. Scola,6
+I. Thomas,False,,T. Rozier makes 3-pt shot from 25 ft (assist by I. Thomas),True,True,False,True,True,True,True,13,T. Rozier,25
+S. Kilpatrick,True,,B. Lopez makes 3-pt shot from 25 ft (assist by S. Kilpatrick),False,True,False,True,True,False,True,13,B. Lopez,25
+I. Thomas,False,,A. Johnson makes 2-pt shot from 1 ft (assist by I. Thomas),True,True,False,True,True,True,False,13,A. Johnson,1
+,True,,S. Kilpatrick misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,14,S. Kilpatrick,26
+I. Thomas,False,,T. Zeller makes 2-pt shot from 7 ft (assist by I. Thomas),True,True,False,True,True,True,False,14,T. Zeller,7
+,True,,L. Scola misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,15,L. Scola,25
+G. Green,False,,T. Zeller makes 2-pt shot from 1 ft (assist by G. Green),True,True,False,True,True,True,False,15,T. Zeller,1
+,False,,J. Jerebko misses 3-pt shot from 26 ft,True,False,False,True,False,True,True,15,J. Jerebko,26
+,True,,J. Lin misses 2-pt shot from 9 ft,False,False,False,True,False,False,False,16,J. Lin,9
+,True,,J. Hamilton makes 2-pt shot from 1 ft,False,False,False,True,True,False,False,16,J. Hamilton,1
+T. Zeller,False,,G. Green makes 3-pt shot from 25 ft (assist by T. Zeller),True,True,False,True,True,True,True,16,G. Green,25
+J. Hamilton,True,,B. Bogdanovic makes 3-pt shot from 27 ft (assist by J. Hamilton),False,True,False,True,True,False,True,16,B. Bogdanovic,27
+,True,,B. Bogdanovic misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,17,B. Bogdanovic,26
+,False,,A. Bradley misses 2-pt shot from 9 ft,True,False,False,True,False,True,False,17,A. Bradley,9
+,False,,J. Jerebko misses 3-pt shot from 23 ft,True,False,False,True,False,True,True,18,J. Jerebko,23
+I. Thomas,False,,A. Horford makes 2-pt shot at rim (assist by I. Thomas),True,True,False,True,True,True,False,18,A. Horford,
+,True,,J. Harris misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,18,J. Harris,26
+,True,A. Horford,J. Harris misses 2-pt shot from 1 ft (block by A. Horford),False,False,True,True,False,False,False,19,J. Harris,1
+,True,,J. Hamilton makes 2-pt shot from 2 ft,False,False,False,True,True,False,False,19,J. Hamilton,2
+,False,,A. Bradley misses 3-pt shot from 26 ft,True,False,False,True,False,True,True,19,A. Bradley,26
+,False,,G. Green makes 2-pt shot from 14 ft,True,False,False,True,True,True,False,19,G. Green,14
+,False,,A. Bradley misses 2-pt shot from 1 ft,True,False,False,True,False,True,False,20,A. Bradley,1
+,True,,J. Harris misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,20,J. Harris,26
+,False,,J. Crowder misses 3-pt shot from 23 ft,True,False,False,True,False,True,True,20,J. Crowder,23
+,True,,J. Hamilton misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,20,J. Hamilton,25
+,True,,T. Booker makes 2-pt shot from 1 ft,False,False,False,True,True,False,False,20,T. Booker,1
+A. Bradley,False,,A. Horford makes 2-pt shot from 2 ft (assist by A. Bradley),True,True,False,True,True,True,False,21,A. Horford,2
+,True,,J. Lin makes 2-pt shot from 9 ft,False,False,False,True,True,False,False,21,J. Lin,9
+,True,A. Horford,J. Lin misses 2-pt shot from 1 ft (block by A. Horford),False,False,True,True,False,False,False,22,J. Lin,1
+J. Lin,True,,J. Hamilton makes 3-pt shot from 25 ft (assist by J. Lin),False,True,False,True,True,False,True,22,J. Hamilton,25
+I. Thomas,False,,A. Johnson makes 2-pt shot from 1 ft (assist by I. Thomas),True,True,False,True,True,True,False,22,A. Johnson,1
+,True,,S. Kilpatrick misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,22,S. Kilpatrick,26
+,True,,J. Hamilton makes 2-pt shot at rim,False,False,False,True,True,False,False,22,J. Hamilton,
+,False,,I. Thomas makes 2-pt shot from 2 ft,True,False,False,True,True,True,False,23,I. Thomas,2
+J. Lin,True,,T. Booker makes 2-pt shot from 19 ft (assist by J. Lin),False,True,False,True,True,False,False,23,T. Booker,19
+,False,,A. Horford misses 3-pt shot from 23 ft,True,False,False,True,False,True,True,23,A. Horford,23
+,True,,J. Lin misses 2-pt shot from 19 ft,False,False,False,True,False,False,False,23,J. Lin,19
+,True,,S. Kilpatrick misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,23,S. Kilpatrick,25
+,False,,A. Horford misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,24,A. Horford,25
+A. Horford,False,,A. Johnson makes 2-pt shot from 1 ft (assist by A. Horford),True,True,False,True,True,True,False,24,A. Johnson,1
+,True,,J. Lin makes 2-pt shot from 8 ft,False,False,False,True,True,False,False,25,J. Lin,8
+,False,,J. Crowder misses 3-pt shot from 24 ft,True,False,False,True,False,True,True,25,J. Crowder,24
+,True,,J. Lin misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,25,J. Lin,26
+,True,,L. Scola misses 3-pt shot from 24 ft,False,False,False,True,False,False,True,25,L. Scola,24
+,False,,I. Thomas misses 3-pt shot from 26 ft,True,False,False,True,False,True,True,26,I. Thomas,26
+,True,,B. Bogdanovic misses 3-pt shot from 24 ft,False,False,False,True,False,False,True,26,B. Bogdanovic,24
+I. Thomas,False,,J. Crowder makes 2-pt shot from 1 ft (assist by I. Thomas),True,True,False,True,True,True,False,26,J. Crowder,1
+,True,,B. Bogdanovic misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,26,B. Bogdanovic,26
+,False,,A. Horford misses 3-pt shot from 26 ft,True,False,False,True,False,True,True,26,A. Horford,26
+,True,,L. Scola makes 2-pt shot from 8 ft,False,False,False,True,True,False,False,27,L. Scola,8
+J. Crowder,False,,A. Bradley makes 3-pt shot from 25 ft (assist by J. Crowder),True,True,False,True,True,True,True,27,A. Bradley,25
+,False,,A. Johnson misses 2-pt shot from 10 ft,True,False,False,True,False,True,False,28,A. Johnson,10
+T. Booker,True,,B. Bogdanovic makes 2-pt shot from 2 ft (assist by T. Booker),False,True,False,True,True,False,False,28,B. Bogdanovic,2
+A. Horford,False,,J. Crowder makes 2-pt shot from 22 ft (assist by A. Horford),True,True,False,True,True,True,False,28,J. Crowder,22
+I. Thomas,False,,J. Crowder makes 2-pt shot at rim (assist by I. Thomas),True,True,False,True,True,True,False,28,J. Crowder,
+,True,,T. Booker misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,29,T. Booker,25
+,False,,I. Thomas makes 3-pt shot from 25 ft,True,False,False,True,True,True,True,29,I. Thomas,25
+,True,,L. Scola misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,30,L. Scola,25
+,True,,B. Bogdanovic makes 2-pt shot at rim,False,False,False,True,True,False,False,30,B. Bogdanovic,
+,True,J. Crowder,J. Lin misses 2-pt shot from 1 ft (block by J. Crowder),False,False,True,True,False,False,False,30,J. Lin,1
+A. Horford,False,,A. Bradley makes 2-pt shot from 18 ft (assist by A. Horford),True,True,False,True,True,True,False,30,A. Bradley,18
+,True,,J. Lin makes 3-pt shot from 26 ft,False,False,False,True,True,False,True,31,J. Lin,26
+,False,,I. Thomas makes 2-pt shot from 16 ft,True,False,False,True,True,True,False,31,I. Thomas,16
+,True,,J. Hamilton misses 2-pt shot from 1 ft,False,False,False,True,False,False,False,31,J. Hamilton,1
+T. Rozier,False,,J. Crowder makes 3-pt shot from 24 ft (assist by T. Rozier),True,True,False,True,True,True,True,31,J. Crowder,24
+,True,,J. Lin makes 3-pt shot from 26 ft,False,False,False,True,True,False,True,31,J. Lin,26
+,False,,J. Crowder makes 2-pt shot from 14 ft,True,False,False,True,True,True,False,32,J. Crowder,14
+,True,J. Brown,J. Harris misses 2-pt shot from 2 ft (block by J. Brown),False,False,True,True,False,False,False,32,J. Harris,2
+,True,,B. Lopez misses 2-pt shot from 9 ft,False,False,False,True,False,False,False,32,B. Lopez,9
+J. Crowder,False,,A. Horford makes 2-pt shot at rim (assist by J. Crowder),True,True,False,True,True,True,False,33,A. Horford,
+G. Vasquez,True,,J. Hamilton makes 3-pt shot from 25 ft (assist by G. Vasquez),False,True,False,True,True,False,True,33,J. Hamilton,25
+,False,,J. Crowder misses 3-pt shot from 25 ft,True,False,False,True,False,True,True,33,J. Crowder,25
+,True,,B. Lopez misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,33,B. Lopez,25
+,True,,S. Kilpatrick misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,34,S. Kilpatrick,26
+,False,,T. Zeller misses 2-pt shot from 1 ft,True,False,False,True,False,True,False,34,T. Zeller,1
+T. Zeller,False,,I. Thomas makes 2-pt shot from 15 ft (assist by T. Zeller),True,True,False,True,True,True,False,34,I. Thomas,15
+J. Brown,False,,I. Thomas makes 2-pt shot at rim (assist by J. Brown),True,True,False,True,True,True,False,34,I. Thomas,
+G. Vasquez,True,,J. Harris makes 3-pt shot from 26 ft (assist by G. Vasquez),False,True,False,True,True,False,True,34,J. Harris,26
+,False,,I. Thomas makes 3-pt shot from 25 ft,True,False,False,True,True,True,True,35,I. Thomas,25
+,True,,J. Hamilton misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,35,J. Hamilton,25
+,False,,I. Thomas misses 3-pt shot from 26 ft,True,False,False,True,False,True,True,35,I. Thomas,26
+,True,,S. Kilpatrick misses 2-pt shot from 18 ft,False,False,False,True,False,False,False,35,S. Kilpatrick,18
+L. Scola,True,,J. Harris makes 2-pt shot from 2 ft (assist by L. Scola),False,True,False,True,True,False,False,36,J. Harris,2
+A. Bradley,False,,T. Zeller makes 2-pt shot from 2 ft (assist by A. Bradley),True,True,False,True,True,True,False,36,T. Zeller,2
+,False,,J. Jerebko makes 2-pt shot from 5 ft,True,False,False,True,True,True,False,37,J. Jerebko,5
+,True,,S. Kilpatrick misses 3-pt shot from 24 ft,False,False,False,True,False,False,True,37,S. Kilpatrick,24
+,False,,T. Rozier makes 2-pt shot from 21 ft,True,False,False,True,True,True,False,37,T. Rozier,21
+,True,T. Zeller,J. Harris misses 2-pt shot from 3 ft (block by T. Zeller),False,False,True,True,False,False,False,37,J. Harris,3
+,True,T. Zeller,J. Hamilton misses 2-pt shot from 4 ft (block by T. Zeller),False,False,True,True,False,False,False,38,J. Hamilton,4
+,True,,J. Harris misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,38,J. Harris,25
+J. Jerebko,False,,J. Brown makes 2-pt shot at rim (assist by J. Jerebko),True,True,False,True,True,True,False,38,J. Brown,
+G. Vasquez,True,,S. Kilpatrick makes 2-pt shot from 9 ft (assist by G. Vasquez),False,True,False,True,True,False,False,38,S. Kilpatrick,9
+,False,,J. Brown makes 2-pt shot from 13 ft,True,False,False,True,True,True,False,39,J. Brown,13
+J. Hamilton,True,,L. Scola makes 2-pt shot from 7 ft (assist by J. Hamilton),False,True,False,True,True,False,False,39,L. Scola,7
+J. Jerebko,False,,A. Bradley makes 3-pt shot from 25 ft (assist by J. Jerebko),True,True,False,True,True,True,True,39,A. Bradley,25
+,True,J. Brown,J. Harris misses 2-pt shot from 5 ft (block by J. Brown),False,False,True,True,False,False,False,40,J. Harris,5
+,True,,J. Harris makes 2-pt shot from 5 ft,False,False,False,True,True,False,False,40,J. Harris,5
+J. Jerebko,False,,T. Zeller makes 2-pt shot from 18 ft (assist by J. Jerebko),True,True,False,True,True,True,False,40,T. Zeller,18
+J. Harris,True,,L. Scola makes 3-pt shot from 23 ft (assist by J. Harris),False,True,False,True,True,False,True,40,L. Scola,23
+,False,,A. Bradley misses 2-pt shot from 1 ft,True,False,False,True,False,True,False,41,A. Bradley,1
+,True,,J. Lin makes 2-pt shot from 1 ft,False,False,False,True,True,False,False,41,J. Lin,1
+T. Zeller,False,,G. Green makes 2-pt shot from 7 ft (assist by T. Zeller),True,True,False,True,True,True,False,41,G. Green,7
+,True,,S. Kilpatrick misses 2-pt shot from 7 ft,False,False,False,True,False,False,False,41,S. Kilpatrick,7
+,False,,J. Jerebko misses 3-pt shot from 28 ft,True,False,False,True,False,True,True,42,J. Jerebko,28
+G. Green,False,,T. Zeller makes 2-pt shot at rim (assist by G. Green),True,True,False,True,True,True,False,42,T. Zeller,
+S. Kilpatrick,True,,J. Hamilton makes 2-pt shot at rim (assist by S. Kilpatrick),False,True,False,True,True,False,False,42,J. Hamilton,
+,False,,J. Jerebko misses 2-pt shot from 7 ft,True,False,False,True,False,True,False,42,J. Jerebko,7
+,True,,J. Lin misses 3-pt shot from 25 ft,False,False,False,True,False,False,True,42,J. Lin,25
+,False,,J. Brown misses 2-pt shot from 15 ft,True,False,False,True,False,True,False,43,J. Brown,15
+T. Rozier,False,,T. Zeller makes 2-pt shot from 20 ft (assist by T. Rozier),True,True,False,True,True,True,False,43,T. Zeller,20
+,False,J. Lin,T. Rozier misses 2-pt shot from 6 ft (block by J. Lin),True,False,True,True,False,True,False,44,T. Rozier,6
+,False,J. Harris,G. Green misses 2-pt shot from 8 ft (block by J. Harris),True,False,True,True,False,True,False,44,G. Green,8
+,False,,G. Green misses 2-pt shot from 5 ft,True,False,False,True,False,True,False,44,G. Green,5
+,True,,C. McCullough makes 2-pt shot from 11 ft,False,False,False,True,True,False,False,44,C. McCullough,11
+T. Booker,True,,J. Harris makes 3-pt shot from 25 ft (assist by T. Booker),False,True,False,True,True,False,True,44,J. Harris,25
+J. Harris,True,,T. Booker makes 2-pt shot from 1 ft (assist by J. Harris),False,True,False,True,True,False,False,45,T. Booker,1
+,False,,G. Green misses 3-pt shot from 24 ft,True,False,False,True,False,True,True,45,G. Green,24
+,False,,T. Rozier misses 2-pt shot from 4 ft,True,False,False,True,False,True,False,45,T. Rozier,4
+,True,,B. Bogdanovic misses 2-pt shot from 1 ft,False,False,False,True,False,False,False,45,B. Bogdanovic,1
+,True,,B. Bogdanovic makes 2-pt shot at rim,False,False,False,True,True,False,False,45,B. Bogdanovic,
+,False,,J. Crowder misses 3-pt shot from 28 ft,True,False,False,True,False,True,True,46,J. Crowder,28
+,True,,B. Bogdanovic misses 2-pt shot from 21 ft,False,False,False,True,False,False,False,46,B. Bogdanovic,21
+,False,J. Harris,A. Bradley misses 2-pt shot from 19 ft (block by J. Harris),True,False,True,True,False,True,False,46,A. Bradley,19
+,False,,A. Bradley misses 2-pt shot from 1 ft,True,False,False,True,False,True,False,46,A. Bradley,1
+,False,,A. Bradley makes 2-pt shot at rim,True,False,False,True,True,True,False,46,A. Bradley,
+,True,,C. McCullough misses 2-pt shot from 22 ft,False,False,False,True,False,False,False,46,C. McCullough,22
+,True,,B. Bogdanovic makes 2-pt shot at rim,False,False,False,True,True,False,False,46,B. Bogdanovic,
+,True,,T. Booker makes 2-pt shot at rim,False,False,False,True,True,False,False,46,T. Booker,
+,False,,I. Thomas misses 2-pt shot from 2 ft,True,False,False,True,False,True,False,47,I. Thomas,2
+I. Whitehead,True,,B. Bogdanovic makes 3-pt shot from 27 ft (assist by I. Whitehead),False,True,False,True,True,False,True,47,B. Bogdanovic,27
+,True,,B. Bogdanovic misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,47,B. Bogdanovic,26
+,True,,J. Hamilton misses 3-pt shot from 23 ft,False,False,False,True,False,False,True,47,J. Hamilton,23
+,True,,J. Harris misses 3-pt shot from 27 ft,False,False,False,True,False,False,True,47,J. Harris,27
+,True,,J. Harris misses 3-pt shot from 26 ft,False,False,False,True,False,False,True,47,J. Harris,26
