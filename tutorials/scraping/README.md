@@ -87,7 +87,10 @@ Using the developer tools option on your browser (chrome or firefox), you can re
 3. Select `Network > XHR`. You will see several json responses for different external API calls to the website. You can click one of the responses you want to inspect and you will see a window like below. You can explore the data in the Preview tab and find the exact URL in the Headers tab. You can see a raw json response with the [URL](http://stats.nba.com/stats/playerdashboardbyyearoveryear?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerID=203954&PlusMinus=N&Rank=N&Season=2017-18&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&Split=yoy&VsConference=&VsDivision=) presented in the Headers tab.  
 ![json-response](img/json-response.png)
 
-4. For the next step, we are going to be programming the calls in python. The jupyter notebook we use is `api.ipynb`.
+4. For the next step, we are going to be programming the calls in python. The jupyter notebook we use is `api.ipynb`. The universal way to open python notebooks is with this command.
+```
+jupyter notebook {notebook-name}
+```
 
 ### Scraping Websites Without Proper Backend API
 
@@ -118,7 +121,7 @@ sudo service mongod restart
 tar -xvzf {robomongo download file}
 sudo mkdir /usr/local/bin/robomongo
 sudo mv  {extracted robomongo download folder}/* /usr/local/bin/robomongo
-cd /usr/local/bin/robomongo
+cd /usr/local/bin/robomongo/bin
 sudo chmod +x {robomongo executable}
 ./{robomongo executable}
 ```

@@ -41,7 +41,7 @@ def parse_play(play):
         details = play['HOMEDESCRIPTION']
 
     # if input isn't a string, return None
-    if not details or not isinstance(details, basestring):
+    if not details:
         return None
 
 
