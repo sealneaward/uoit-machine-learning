@@ -3,5 +3,5 @@
 **/venv/**
 **/.idea/**
 **/build/**
-**/**.egg-info/**
+**/*.egg-info/**
 **/dist/**
